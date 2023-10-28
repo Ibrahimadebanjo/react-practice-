@@ -1,2 +1,2 @@
 # react-practice-
-hello world
+this is 100DaysOfCode practice 
